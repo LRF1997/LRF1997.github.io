@@ -156,14 +156,14 @@ module.exports = {
       }
     ],
     "valineConfig": {
-      "appId": 'Lt08OCjedmFHtvj8mRjiQYxW-gzGzoHsz',// your appId
-      "appKey": 'Q1oaJOIF7mhhhDjc3PbxaQUR', // your appKey
+      // "appId": 'Lt08OCjedmFHtvj8mRjiQYxW-gzGzoHsz',// your appId
+      // "appKey": 'Q1oaJOIF7mhhhDjc3PbxaQUR', // your appKey
     },
     "logo": "/avatar.png",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "wangzw",
+    "author": "li",
     "authorAvatar": "/logo.jpeg",
     "record": "李瑞峰",
     "startYear": "2022"
